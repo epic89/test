@@ -1,7 +1,6 @@
 # BASH script create docker containers adminer and mysql using a separate network
 
 ## Setup
-```
 
 ### Useful Commands
 ```$xslt
